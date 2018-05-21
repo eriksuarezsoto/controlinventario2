@@ -1,0 +1,49 @@
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+	margin:1px;
+	background:#92bde7;
+	color: #485e74;
+	line-height: 1.6;
+	font-family: Verdana;
+	/*padding: 1em;*/
+	padding: 20px;
+	width: 100%;
+	text-align:center;
+	}
+	
+.creador{
+	border-width: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+	text-align: center;
+	margin: 0 0 1rem 0;
+	max-width: 1170px;	
+}
+ input,textarea{
+	background: #66ffff;
+	margin-bottom: 10px;
+	width: 50%;
+	color: #000000;
+	font-size: bold 16px;
+	padding: 1em;
+	border: 2px solid darkgray;
+	text-transform: uppercase;
+	text-align: left;
+	border-radius: 7px;
+}
+
+
+.boton{
+	padding: 10px 40px;
+	background: #0099ff;
+	width: 200px;
+	border:4px;
+	size: 3em;
+	text-align: center;
+}
+
